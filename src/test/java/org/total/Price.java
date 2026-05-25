@@ -8,6 +8,8 @@ public class Price {
 		
 		int BikePrice = 150000;
 		
+		int EvScooter = 120000;
+		
 		
 	}
 
