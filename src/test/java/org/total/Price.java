@@ -6,7 +6,7 @@ public class Price {
 		
 		int carPrice = 700000;
 		
-		
+		int BikePrice = 150000;
 		
 		
 	}
